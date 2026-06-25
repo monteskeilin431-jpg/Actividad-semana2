@@ -8,4 +8,4 @@ Pregunta 3:
 Respuesta: C. ls
 
 Pregunta 4:
-Respuesta: B. ls
+Respuesta: B. mkdir
